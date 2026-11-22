@@ -6,7 +6,7 @@
     </div>
 </h1>
 
-<h3 align="center">Beginner software developer from Belarus 🇧🇾</h3>
+<h3 align="center">Beginner software developer from Belarus ᵇʸ</h3>
 <br/>
 
 <div align="center">
@@ -32,7 +32,7 @@
   <br/>
 </div> 
 
-<h2 align="center">✨ My Stats ✨</h2>
+<h2 align="center">👾 My Stats 👾</h2>
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=evility7&theme=tokyonight" alt="GitHub Streak" /></a>
   </a>
